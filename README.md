@@ -1,5 +1,5 @@
 <!-- Top Capsule Render Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" style="display:block; line-height:0; margin-bottom:2px;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,555555,AAAAAA&height=110&section=header" width="100%">
 
 <!-- Your custom banner -->
 <div align="center" style="line-height:0; margin-top:0;">
