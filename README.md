@@ -26,144 +26,34 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
 <div align="center">
   <table style="width:100%; table-layout:fixed;">
     <tr>
-      <!-- Icon Row -->
-      <td align="center" width="16.66%">
-        <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">
-          <img src="./badges/aws-certified-ai-practitioner.png" width="120" alt="AWS Certified AI Practitioner"/>
+      <!-- Certificate Image Row -->
+      <td align="center" width="25%">
+        <a href="https://www.udemy.com/certificate/UC-37be685a-25f7-4145-934d-f24863dc9314/">
+          <img src="images/Complete_ml_dl_nlp_bootcamp.jpg" width="150" alt="Complete ML, DL & NLP Bootcamp"/>
         </a>
       </td>
-      <td align="center" width="16.66%">
-        <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">
-          <img src="./badges/azure-ai-fundamentals.png" width="120" alt="Azure AI Fundamentals (AI-900)"/>
+      <td align="center" width="25%">
+        <a href="https://www.udemy.com/certificate/UC-9012b556-6b47-4b25-b0cf-794c8447f52d/">
+          <img src="images/Complete_computer_vision.jpg" width="150" alt="Complete Computer Vision Bootcamp"/>
         </a>
       </td>
-      <td align="center" width="16.66%">
-        <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">
-          <img src="./badges/generative-ai-leader-certification (1).png" width="120" alt="Google Generative AI Leader"/>
+      <td align="center" width="25%">
+        <a href="https://www.udemy.com/certificate/UC-7af4bd52-bb34-4816-9972-4cf37249f89e/">
+          <img src="images/LLM-Engineering.jpg" width="150" alt="LLM Engineering"/>
         </a>
       </td>
-      <td align="center" width="16.66%">
-        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8ECBEDDBF41A432652D2FE730242B5D2A27689B00914167AD35C9A59EB45AA2F">
-          <img src="./badges/Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate.png" width="120" alt="Oracle Cloud Infrastructure AI Foundations"/>
-        </a>
-      </td>
-      <!-- NEW: IBM AI Fundamentals -->
-      <td align="center" width="16.66%">
-        <a href="https://www.credly.com/badges/dd9fd013-1052-4364-bf4a-7f237cafb035/public_url">
-          <img src="./badges/ibm-artificial-intelligence-fundamentals.png" width="120" alt="IBM Artificial Intelligence Fundamentals"/>
-        </a>
-      </td>
-      <!-- NEW: Cisco – AI Fundamentals with IBM SkillsBuild -->
-      <td align="center" width="16.66%">
-        <a href="https://www.credly.com/badges/bf03923b-1515-4e16-8fe6-be3c88996c5b/public_url">
-          <img src="./badges/ai-fundamentals-with-ibm-skillsbuild.png" width="120" alt="AI Fundamentals with IBM SkillsBuild (Issued by Cisco)"/>
+      <td align="center" width="25%">
+        <a href="https://www.udemy.com/certificate/URL_FOR_CERT4">
+          <img src="images/cert4.jpg" width="150" alt="RAG Engineering"/>
         </a>
       </td>
     </tr>
     <tr>
-      <!-- Text Row -->
-      <td align="center" width="16.66%">
-        🗓️ July 2025<br/>
-        🔗 <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">AWS Certified AI Practitioner</a><br/>
-        <em>Core AWS AI/ML services & practitioner concepts.</em>
-      </td>
-      <td align="center" width="16.66%">
-        🗓️ July 2025<br/>
-        🔗 <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">Azure AI Fundamentals (AI-900)</a><br/>
-        <em>Azure AI workloads, services, and responsible AI.</em>
-      </td>
-      <td align="center" width="16.66%">
-        🗓️ July 2025<br/>
-        🔗 <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">Google Generative AI Leader</a><br/>
-        <em>Generative AI leadership & Google Cloud AI solutions.</em>
-      </td>
-      <td align="center" width="16.66%">
-        🗓️ August 2025<br/>
-        🔗 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8ECBEDDBF41A432652D2FE730242B5D2A27689B00914167AD35C9A59EB45AA2F">Oracle AI Foundations</a><br/>
-        <em>Validates OCI AI services, ML, and responsible AI practices.</em>
-      </td>
-      <!-- NEW: IBM AI Fundamentals -->
-      <td align="center" width="16.66%">
-         🗓️ September 2025 <br/>
-        🔗 <a href="https://www.credly.com/badges/dd9fd013-1052-4364-bf4a-7f237cafb035/public_url">IBM Artificial Intelligence Fundamentals</a><br/>
-        <em>Intro to AI concepts, ML, neural nets, and AI ethics.</em>
-      </td>
-      <!-- NEW: Cisco – AI Fundamentals with IBM SkillsBuild -->
-      <td align="center" width="16.66%">
-         🗓️ September 2025 <br/>
-        🔗 <a href="https://www.credly.com/badges/bf03923b-1515-4e16-8fe6-be3c88996c5b/public_url">AI Fundamentals with IBM SkillsBuild (Cisco)</a><br/>
-        <em>Foundations of AI, data, and ML; Cisco-issued via IBM SkillsBuild.</em>
-      </td>
+      <!-- Certificate Text Row -->
+      <td align="center">Complete Data Science,Machine Learning,DL,NLP Bootcamp</td>
+      <td align="center">Complete Computer Vision Bootcamp With PyTorch & Tensorflow</td>
+      <td align="center">LLM Engineering: Master AI, Large Language Models & Agents</td>
+      <td align="center">RAG Engineering</td>
     </tr>
   </table>
 </div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <!-- Icon Row -->
-      <td align="center">
-        <a href="https://www.credly.com/badges/0259a81d-5ffc-41ec-ab25-c7ec34a0b4df/public_url">
-          <img src="./badges/cisco-introduction-to-modern-ai.png" width="120" alt="Cisco: Introduction to Modern AI"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/ccc9ab9c-cae1-4e1f-9cc5-29cb8b08cd94/public_url">
-          <img src="./badges/cisco-ai-at-work-analyze-customer-reviews.png" width="120" alt="Cisco: AI at Work – Analyze Customer Reviews"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/37724616-5ec7-4550-b3b4-77765d1e138a/public_url">
-          <img src="./badges/ibm-getting-started-with-artificial-intelligence.png" width="120" alt="IBM: Getting Started with Artificial Intelligence"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/7d1fd871-aaa8-42a5-93da-276c6f1017fc/public_url">
-          <img src="./badges/ibm-ai-literacy.png" width="120" alt="IBM: AI Literacy"/>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI4dTgwbHQzcXRnMzlhMmZ6M2NvdTEzdTk1dWNrMGVibTlsdWp2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/um2kBnfo55iW4ZH1Fa/giphy.gif"
-             width="120" alt="Coming Soon – funny tech GIF"/>
-      </td>
-    </tr>
-    <tr>
-      <!-- Text Row (no <br/>) -->
-      <td align="center">
-         🗓️ September 2025 <br/>
-        <div>🔗 <a href="https://www.credly.com/badges/0259a81d-5ffc-41ec-ab25-c7ec34a0b4df/public_url">Introduction to Modern AI</a></div>
-        <div><em>Cisco micro-credential on core AI concepts &amp; modern use cases.</em></div>
-      </td>
-      <td align="center">
-         🗓️ September 2025 <br/>
-        <div>🔗 <a href="https://www.credly.com/badges/ccc9ab9c-cae1-4e1f-9cc5-29cb8b08cd94/public_url">AI at Work: Analyze Customer Reviews</a></div>
-        <div><em>Cisco skill badge applying AI to review/sentiment analysis.</em></div>
-      </td>
-      <td align="center">
-        🗓️ September 2025 <br/>
-        <div>🔗 <a href="https://www.credly.com/badges/37724616-5ec7-4550-b3b4-77765d1e138a/public_url">Getting Started with Artificial Intelligence</a></div>
-        <div><em>IBM intro to AI foundations, terminology, and workflows.</em></div>
-      </td>
-      <td align="center">
-        🗓️ September 2025 <br/>
-        <div>🔗 <a href="https://www.credly.com/badges/7d1fd871-aaa8-42a5-93da-276c6f1017fc/public_url">AI Literacy</a></div>
-        <div><em>IBM fundamentals of AI concepts, impacts, and ethics.</em></div>
-      </td>
-      <td align="center">
-        <div>🗓️ Coming Soon</div>
-        <div>🔗 —</div>
-        <div><em>Nextcredential dropping soon — stay tuned! 😄</em></div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
-
-
-
-
