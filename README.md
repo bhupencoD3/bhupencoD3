@@ -22,7 +22,7 @@
 <h2 align="center">🚀 About Me</h2>
 I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes engineering is more than writing code it’s about turning simple ideas into something meaningful. What began as experimenting with small programs slowly grew into a passion for building things that work, last, and actually help people. For me, the joy is in shaping raw thoughts into products that feel alive. Outside of tech, I follow football and hip-hop, both of which keep me grounded in creativity and rhythm.
 
-<h2 align="center">🤖 AI &amp; ML Practitioner Certifications</h2>
+<h2 align="center">🎓 AI &amp; ML Practitioner Certifications</h2>
 <div align="center">
   <table style="width:100%; table-layout:fixed;">
     <tr>
@@ -57,3 +57,73 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
     </tr>
   </table>
 </div>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhupencoD3&theme=github-dark-dimmed)](https://git.io/streak-stats)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhupencoD3&theme=github-dark-dimmed)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupencoD3&layout=compact&theme=discord_old_blurpl&hide_border=true" alt="Top Languages">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupencoD3&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhupencoD3&theme=discord_old_blurple&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+</div>
+<img src="https://github-readme-stats.vercel.app/api?username=bhupencoD3&show_icons=true&theme=discord_old_blurple&hide_border=true" alt="bhupencoD3's GitHub stats">
+
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/bhupencoD3/ml-project-blueprint.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=ml-project-blueprint&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bhupencoD3/agentic-ai-lab.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=agentic-ai-lab&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bhupencoD3/cv-segmentation-backbones">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=cv-segmentation-backbones&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bhupencoD3/cv-detection-backbones">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=cv-detection-backbones&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bhupencoD3/rag-pipeline">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=rag-pipeline&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bhupencoD3/pytorch-computer-vision">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=pytorch-computer-vision&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
+
+
