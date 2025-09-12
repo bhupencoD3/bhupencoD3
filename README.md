@@ -1,5 +1,5 @@
 <!-- Top Capsule Render Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,555555,AAAAAA&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <!-- Your custom banner -->
 <div align="center" style="line-height:0; margin-top:0;">
   <a href="https://github.com/bhupencoD3">
@@ -17,7 +17,7 @@
 
 | Portfolio | LinkedIn | GitHub | Email | Leetcode |
 | --- | --- | --- | --- | --- |
-| [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](https://www.kenangain.com/)  | [![Bhopindra Parmar](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhupenparmar&subtitle=Bhopindra+Parmar&size=square)](https://www.linkedin.com/in/bhupenparmar) | [![bhupencoD3](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FbhupencoD3&subtitle=@bhupencoD3&size=square)](https://github.com/bhupencoD3) | [![Bhopindra Parmar](https://bentos.jkominovic.dev/api/v1/bento-cards?url=bhupenparmar.ds%40gmail.com&subtitle=Bhopindra+Parmar&size=square)](bhupenparmar.ds@gmail.com) | [![leetcode](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLeetcode&subtitle=@bhupencoD3&size=square)](https://leetcode.com/u/bhupencoD3/)
+| [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](https://www.codethematrix.com/)  | [![Bhopindra Parmar](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhupenparmar&subtitle=Bhopindra+Parmar&size=square)](https://www.linkedin.com/in/bhupenparmar) | [![bhupencoD3](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FbhupencoD3&subtitle=@bhupencoD3&size=square)](https://github.com/bhupencoD3) | [![Bhopindra Parmar](https://bentos.jkominovic.dev/api/v1/bento-cards?url=bhupenparmar.ds%40gmail.com&subtitle=Bhopindra+Parmar&size=square)](bhupenparmar.ds@gmail.com) | [![leetcode](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLeetcode&subtitle=@bhupencoD3&size=square)](https://leetcode.com/u/bhupencoD3/)
 
 <h2 align="center">🚀 About Me</h2>
 I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes engineering is more than writing code it’s about turning simple ideas into something meaningful. What began as experimenting with small programs slowly grew into a passion for building things that work, last, and actually help people. For me, the joy is in shaping raw thoughts into products that feel alive. Outside of tech, I follow football and hip-hop, both of which keep me grounded in creativity and rhythm.
@@ -65,7 +65,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupencoD3&layout=compact&theme=discord_old_blurpl&hide_border=true" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupencoD3&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages">
     </td>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupencoD3&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Repos Per Language">
@@ -304,8 +304,8 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
 <br>Prometheus
       </td>
       <td align="center" style="border: none;">
-<img width="50" height="50" alt="ELK" src="https://github.com/user-attachments/assets/b1e80596-73f8-4d73-9f40-e129bad4fa70" />
-<br>ELK Stack<br>
+<img width="48" height="48" alt="ELK" src="https://github.com/user-attachments/assets/b1e80596-73f8-4d73-9f40-e129bad4fa70" />
+<br>ELK Stack<br><sub>(Elasticsearch • Logstash • Kibana)</sub>
       </td>
     </tr>
   </tbody>
@@ -330,6 +330,36 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
   </tbody>
 </table>
 </div>
+<h2 align="center">📫 Let's Connect!</h2>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="mailto:bhupenparmar.ds@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 40px; margin: 10px;">
+          <br>
+          bhupenparmar.ds@gmail.com
+        </a>
+      </td>
+      </tr>
+  </tbody>
+</table>
+<br>
+<h3>
+<div align="center">
+  
+⭐️ From [Bhopindra Parmar](https://github.com/bhupencoD3) | Because every idea deserves a chance to become real.!
+<br>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+</div>
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
 
 
 
