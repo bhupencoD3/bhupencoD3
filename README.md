@@ -15,9 +15,9 @@
   <h2>🌐 Connect with Me</h2>
   <p>Discover my work and connect on these platforms!</p>
 
-| Portfolio | LinkedIn | GitHub | Email | Leetcode |
-| --- | --- | --- | --- | --- |
-| [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](https://www.codethematrix.com/)  | [![Bhopindra Parmar](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhupenparmar&subtitle=Bhopindra+Parmar&size=square)](https://www.linkedin.com/in/bhupenparmar) | [![bhupencoD3](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FbhupencoD3&subtitle=@bhupencoD3&size=square)](https://github.com/bhupencoD3) | [![Bhopindra Parmar](https://bentos.jkominovic.dev/api/v1/bento-cards?url=bhupenparmar.ds%40gmail.com&subtitle=Bhopindra+Parmar&size=square)](bhupenparmar.ds@gmail.com) | [![leetcode](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLeetcode&subtitle=@bhupencoD3&size=square)](https://leetcode.com/u/bhupencoD3/)
+| LinkedIn | GitHub | Email | Leetcode |
+| --- | --- | --- | --- | 
+|[![Bhopindra Parmar](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhupenparmar&subtitle=Bhopindra+Parmar&size=square)](https://www.linkedin.com/in/bhupenparmar) | [![bhupencoD3](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FbhupencoD3&subtitle=@bhupencoD3&size=square)](https://github.com/bhupencoD3) | [![Bhopindra Parmar](https://bentos.jkominovic.dev/api/v1/bento-cards?url=bhupenparmar.ds%40gmail.com&subtitle=Bhopindra+Parmar&size=square)](bhupenparmar.ds@gmail.com) | [![leetcode](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLeetcode&subtitle=@bhupencoD3&size=square)](https://leetcode.com/u/bhupencoD3/)
 
 <h2 align="center">🚀 About Me</h2>
 I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes engineering is more than writing code it’s about turning simple ideas into something meaningful. What began as experimenting with small programs slowly grew into a passion for building things that work, last, and actually help people. For me, the joy is in shaping raw thoughts into products that feel alive. Outside of tech, I follow football and hip-hop, both of which keep me grounded in creativity and rhythm.
@@ -341,7 +341,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
     <tr>
       <td align="center">
         <a href="mailto:bhupenparmar.ds@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 40px; margin: 10px;">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 50px; margin: 10px;">
           <br>
           bhupenparmar.ds@gmail.com
         </a>
