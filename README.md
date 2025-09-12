@@ -120,9 +120,216 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
   </table>
 </div>
 
+### GitHub Contribution Chart
+<a href="https://github.com/bhupencoD3">
+    <img src="https://ghchart.rshah.org/bhupencoD3" alt="bhupencoD3's GitHub Contribution Chart">
+</a>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
+<h3 align="center">Core AI/ML</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" /> <br>OpenCV
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
+      </td>
+    </tr>
+  </tbody>
+ </table>
+</div>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;">Frameworks & Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
+        </td>
+        <td align="center" style="border: none;">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langgraph.png" />
+            <img height="50" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langgraph.png" alt="LangGraph"/>
+          </picture><br>LangGraph
+        </td>
+        <td align="center" style="border: none;">
+         <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" />
+            <img height="50" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/ollama.png" alt="LangGraph"/>
+          </picture><br>Ollama
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<h3 align="center">☁️ DevOps & Cloud</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend & Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img width="50" height="50" alt="FastAPI" src="https://github.com/user-attachments/assets/97a2a317-4de3-4b9f-9e5f-e6b4d85d2a32" />
+<br>FastAPI
+      </td>
+      <td align="center" style="border: none;">
+        <img width="50" height="50" alt="Flask" src="https://github.com/user-attachments/assets/35cd2b20-28ae-4a33-991a-a08aeaf0be87" />
+<br>Flask
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Cloud Platforms</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 12px;">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        </td>
+      <td align="center" style="border: none; padding: 12px;">
+          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+        </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Containers & Orchestration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" style="border: none;">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">CI/CD & Automation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/><br>Git
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50"/><br>Jenkins
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50"/><br>GitHub Actions
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI/CD" width="50" height="50"/><br>GitLab CI/CD
+      </td>
+      <td align="center" style="border: none;">
+        <img width="50" height="50" alt="ArgoCD" src="https://github.com/user-attachments/assets/4fce6328-1a87-4aa0-8875-c6970e6789b7" /><br>ArgoCD
+      </td>
+      <td align="center" style="border: none;">
+        <img width="50" height="50" alt="CircleCI" src="https://github.com/user-attachments/assets/cd260322-a287-4e34-91f5-f71c4972adff" /><br>CircleCI
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Monitoring & Logging</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f6566182-9aae-4485-b7d3-d8643f3212a6" />
+<br>Grafana
+      </td>
+      <td align="center" style="border: none;">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/656833b0-8674-405b-8f61-ce22743a456d" />
+<br>Prometheus
+      </td>
+      <td align="center" style="border: none;">
+<img width="50" height="50" alt="ELK" src="https://github.com/user-attachments/assets/b1e80596-73f8-4d73-9f40-e129bad4fa70" />
+<br>ELK Stack<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">OS & Essentials</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/><br>Git
+      </td>
+      <td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/><br>Linux
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
 
