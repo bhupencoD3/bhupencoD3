@@ -76,7 +76,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
   </tr>
 </table>
 </div>
-<img src="https://bhupen-github-readme-stats.vercel.app/api?username=bhupencoD3&show_icons=true&theme=discord_old_blurple&hide_border=true&cache_seconds=1800" alt="bhupencoD3's GitHub stats">
+<img src="https://bhupen-github-readme-stats.vercel.app/api?username=bhupencoD3&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true" alt="bhupencoD3's Github stats" />
 
 ### Top Repositories
 <div align="center">
