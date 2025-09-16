@@ -59,13 +59,13 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
 </div>
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats-lyart-nine-77.vercel.app/?user=bhupencoD3&theme=discord_old_blurple&hide_border=true&t=12345)]()
+[![GitHub Streak](https://github-readme-streak-stats-lyart-nine-77.vercel.app/?user=bhupencoD3&theme=discord_old_blurple&hide_border=true&t=12345&fire=FF2605&ring=EB9432&stroke=E9EBE4)]()
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhupencoD3&theme=github-dark-dimmed)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupencoD3&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages">
+      <img src="https://bhupen-github-readme-stats.vercel.app/api/top-langs/?username=bhupencoD3&layout=compact&theme=discord_old_blurple&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages">
     </td>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupencoD3&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Repos Per Language">
@@ -76,7 +76,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
   </tr>
 </table>
 </div>
-<img src="https://bhupen-github-readme-stats.vercel.app/api?username=bhupencoD3&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=600" alt="bhupencoD3's Github stats" />
+<img src="https://bhupen-github-readme-stats.vercel.app/api?username=bhupencoD3&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=600&t=12346" alt="bhupencoD3's Github stats" />
 
 
 ### Top Repositories
@@ -123,7 +123,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
 
 ### GitHub Contribution Chart
 <a href="https://github.com/bhupencoD3">
-    <img src="https://ghchart.rshah.org/bhupencoD3" alt="bhupencoD3's GitHub Contribution Chart">
+    <img src="https://ghchart.rshah.org/bhupencoD3?refresh=1" alt="bhupencoD3's GitHub Contribution Chart">
 </a>
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
