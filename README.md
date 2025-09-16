@@ -59,7 +59,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
 </div>
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhupencoD3&theme=github-dark-dimmed)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-lyart-nine-77.vercel.app/?user=bhupencoD3&theme=discord_old_blurple&hide_border=true&t=12345)]()
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhupencoD3&theme=github-dark-dimmed)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <div align="center">
 <table>
@@ -76,7 +76,8 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
   </tr>
 </table>
 </div>
-<img src="https://bhupen-github-readme-stats.vercel.app/api?username=bhupencoD3&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true&include_all_commits=true" alt="bhupencoD3's Github stats" />
+<img src="https://bhupen-github-readme-stats.vercel.app/api?username=bhupencoD3&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=600" alt="bhupencoD3's Github stats" />
+
 
 ### Top Repositories
 <div align="center">
