@@ -44,7 +44,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
       </td>
       <td align="center" width="25%">
         <a href="https://www.udemy.com/certificate/UC-25f77197-e6f0-4cde-9402-3d5b0fb0ca64/">
-          <img src="images/Complete_RAG.jpg" width="150" alt="RAG Engineering"/>
+          <img src="images/Complete_RAG.jpg" width="150" alt="Ultimate RAG Bootcamp Using Langchain,LangGraph & Langsmith"/>
         </a>
       </td>
     </tr>
@@ -53,14 +53,14 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
       <td align="center">Complete Data Science,Machine Learning,DL,NLP Bootcamp</td>
       <td align="center">Complete Computer Vision Bootcamp With PyTorch & Tensorflow</td>
       <td align="center">LLM Engineering: Master AI, Large Language Models & Agents</td>
-      <td align="center">RAG Engineering</td>
+      <td align="center">Ultimate RAG Bootcamp Using Langchain,LangGraph & Langsmith</td>
     </tr>
   </table>
 </div>
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats-lyart-nine-77.vercel.app/?user=bhupencoD3&theme=discord_old_blurple&hide_border=true&t=12345)]()
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhupencoD3&theme=github-dark-dimmed)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats-lyart-nine-77.vercel.app/?user=bhupencoD3&theme=discord_old_blurple&hide_border=true&t=12346)]()
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhupencoD3&theme=github-dark-dimmed&t=12346)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <div align="center">
 <table>
   <tr>
@@ -76,7 +76,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
   </tr>
 </table>
 </div>
-<img src="https://bhupen-github-readme-stats.vercel.app/api?username=bhupencoD3&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=600&t=12346" alt="bhupencoD3's Github stats" />
+<img src="https://bhupen-github-readme-stats.vercel.app/api?username=bhupencoD3&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=600&t=12347" alt="bhupencoD3's Github stats" />
 
 
 ### Top Repositories
