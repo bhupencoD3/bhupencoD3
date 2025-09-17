@@ -43,8 +43,8 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
         </a>
       </td>
       <td align="center" width="25%">
-        <a href="https://www.udemy.com/certificate/URL_FOR_CERT4">
-          <img src="images/cert4.jpg" width="150" alt="RAG Engineering"/>
+        <a href="https://www.udemy.com/certificate/UC-25f77197-e6f0-4cde-9402-3d5b0fb0ca64/">
+          <img src="images/Complete_RAG.jpg" width="150" alt="RAG Engineering"/>
         </a>
       </td>
     </tr>
@@ -59,7 +59,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
 </div>
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats-lyart-nine-77.vercel.app/?user=bhupencoD3&theme=discord_old_blurple&hide_border=true&t=12345&fire=FF2605&ring=EB9432&stroke=E9EBE4)]()
+[![GitHub Streak](https://github-readme-streak-stats-lyart-nine-77.vercel.app/?user=bhupencoD3&theme=discord_old_blurple&hide_border=true&t=12345)]()
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhupencoD3&theme=github-dark-dimmed)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <div align="center">
 <table>
