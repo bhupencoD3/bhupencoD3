@@ -84,7 +84,7 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
   <table>
     <tr>
       <td>
-        <a href="https://github.com/bhupencoD3/ml-project-blueprint.git">
+        <a href="https://github.com/bhupencoD3/PerfectPick.git">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=ml-project-blueprint&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
         </a>
       </td>
