@@ -83,37 +83,25 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
   <table>
     <tr>
       <td>
-        <a href="https://github.com/bhupencoD3/PerfectPick.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=ml-project-blueprint&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        <a href="https://github.com/bhupencoD3/PerfectPick">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=PerfectPick&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/bhupencoD3/agentic-ai-lab.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=agentic-ai-lab&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        <a href="https://github.com/bhupencoD3/DiagnoAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=DiagnoAI&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/bhupencoD3/cv-segmentation-backbones">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=cv-segmentation-backbones&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        <a href="https://github.com/bhupencoD3/kairo-engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=kairo-engine&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
         </a>
       </td>
-      <td>
-        <a href="https://github.com/bhupencoD3/cv-detection-backbones">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=cv-detection-backbones&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://github.com/bhupencoD3/rag-pipeline">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=rag-pipeline&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bhupencoD3/pytorch-computer-vision">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=pytorch-computer-vision&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
