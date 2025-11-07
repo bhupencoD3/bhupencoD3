@@ -83,13 +83,13 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
   <table>
     <tr>
       <td>
-        <a href="https://github.com/bhupencoD3/PerfectPick">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=PerfectPick&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        <a href="https://github.com/bhupencoD3/DiagnoAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=DiagnoAI&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/bhupencoD3/DiagnoAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=DiagnoAI&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        <a href="https://github.com/bhupencoD3/PerfectPick">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=PerfectPick&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -102,6 +102,18 @@ I’m Bhopindra Parmar from India, a Computer Engineering graduate who believes 
       <td>
         <a href="https://github.com/bhupencoD3/rag-pipeline">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=rag-pipeline&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bhupencoD3/Productivity_Monitoring">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=Productivity_Monitoring&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bhupencoD3/bhupencoD3">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhupencoD3&repo=bhupencoD3&theme=github_dark_dimmed&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
